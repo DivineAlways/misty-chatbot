@@ -20,7 +20,7 @@ Hey there! 👋 I'm Misty, your AI buddy built with NVIDIA's NeMo Guardrails. I 
 
 1. Clone this repo:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/divinealways/misty-chatbot.git
 ```
 
 2. Install dependencies:
